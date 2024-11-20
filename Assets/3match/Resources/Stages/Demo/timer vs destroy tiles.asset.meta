@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fa97986f67d005428288e4ad6878802
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/timer vs destroy tiles.asset
+  uploadId: 606638

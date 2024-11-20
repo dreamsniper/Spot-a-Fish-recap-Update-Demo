@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84386c58d1da4fb47a6d1843d490f58b
+timeCreated: 1510843763
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/templates/advanced bonus/Time.asset
+  uploadId: 606638

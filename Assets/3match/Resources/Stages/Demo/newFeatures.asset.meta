@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5fbd5f6851ff424db9be9c802ac8327
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/newFeatures.asset
+  uploadId: 606638

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f40eac4a43d1e2b4590afeb59476c9c4
+timeCreated: 1520950151
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/templates/Themes/BattleColorTheme.asset
+  uploadId: 606638

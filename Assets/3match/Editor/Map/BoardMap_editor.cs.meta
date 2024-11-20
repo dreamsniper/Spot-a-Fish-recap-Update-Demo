@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 673b4fc0f13ba414fa6b397ab187a00d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/Map/BoardMap_editor.cs
+  uploadId: 606638

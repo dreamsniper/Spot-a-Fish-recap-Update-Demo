@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8d8e07340ea1d9d43af80b66cd634b9d
+timeCreated: 1469982286
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/initiaion and creation/Board_C.initiate_board.cs
+  uploadId: 606638

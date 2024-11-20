@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7731c8e357475854ebe94153c270aa2f
+timeCreated: 1524663409
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/ScritableObjects/CameraTemplate.cs
+  uploadId: 606638

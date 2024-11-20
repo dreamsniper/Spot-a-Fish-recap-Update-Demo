@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f0c53b1d4bfe894d8881657f7bae5d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/ScritableObjects/map/BoardElement.cs
+  uploadId: 606638

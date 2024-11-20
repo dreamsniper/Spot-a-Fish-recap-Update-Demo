@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 192a898c963a83e4282f5ba00899dbe9
+timeCreated: 1457541973
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Board_C.win_and_lose.cs
+  uploadId: 606638

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b2b8922e90583364396f161d5b0cdf9a
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/prefab/cursor.prefab
+  uploadId: 606638

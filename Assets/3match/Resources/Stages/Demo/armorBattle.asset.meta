@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7643327a1decae240989fca59496a1b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/armorBattle.asset
+  uploadId: 606638

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 531b2c4aa6e85c5458330d1dea952095
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/prefab/fx/bonus/destroy_vertical_fx.prefab
+  uploadId: 606638

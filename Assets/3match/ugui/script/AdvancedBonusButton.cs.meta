@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e9bac596f71e35a4fa5fc25860f6f9e8
+timeCreated: 1511466839
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/script/AdvancedBonusButton.cs
+  uploadId: 606638

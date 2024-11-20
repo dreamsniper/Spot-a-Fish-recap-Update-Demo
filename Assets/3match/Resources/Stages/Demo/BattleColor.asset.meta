@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b370fc8ce8c18541aa36be5e4116f85
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/BattleColor.asset
+  uploadId: 606638

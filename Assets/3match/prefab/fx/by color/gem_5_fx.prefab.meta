@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5984e2edb8733b4ba4bb81159faf690
+timeCreated: 1470152609
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/prefab/fx/by color/gem_5_fx.prefab
+  uploadId: 606638

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1812f4102d91896478d00d4f29d830da
+timeCreated: 1511466920
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Board_C.Enemy_AI.cs
+  uploadId: 606638

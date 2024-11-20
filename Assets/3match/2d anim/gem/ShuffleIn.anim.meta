@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 917f5befe01417b4195f2bd4e36b9c94
+timeCreated: 1523463864
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/2d anim/gem/ShuffleIn.anim
+  uploadId: 606638

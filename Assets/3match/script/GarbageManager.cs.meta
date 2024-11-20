@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3ad205fdb50623341a0f9309997dfe61
+timeCreated: 1521037726
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/GarbageManager.cs
+  uploadId: 606638

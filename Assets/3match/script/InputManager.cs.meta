@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6c0ac49e05b65804bb4bc033d5dfb15b
+timeCreated: 1458147770
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/InputManager.cs
+  uploadId: 606638

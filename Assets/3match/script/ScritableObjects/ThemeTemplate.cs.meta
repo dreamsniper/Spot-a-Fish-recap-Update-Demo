@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6df0137d3b1b5fb43b47057c9b91329a
+timeCreated: 1520949198
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/ScritableObjects/ThemeTemplate.cs
+  uploadId: 606638

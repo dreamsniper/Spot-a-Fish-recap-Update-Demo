@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ffa93d4d76c570f478c9ca73870a374c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/bugtest/diagonal falling error.asset
+  uploadId: 606638

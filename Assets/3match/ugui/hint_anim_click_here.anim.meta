@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 29b51156cedaacf4eaba1e2f1071bcd4
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/hint_anim_click_here.anim
+  uploadId: 606638

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b35e72e5018a7eb45bee440f3d3bfa3c
+timeCreated: 1510843763
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/templates/advanced bonus/Damage.asset
+  uploadId: 606638

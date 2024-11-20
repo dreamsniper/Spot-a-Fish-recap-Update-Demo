@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3536afbde3ca94a4fb7eec6112085b4f
+timeCreated: 1520006007
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/initiaion and creation/Board_C.LoadTemplates.cs
+  uploadId: 606638

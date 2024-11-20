@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9833ff4f5d5308445980fb40b4fa5d5f
+timeCreated: 1457541695
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/script/UIManafger/UIManager.updateGUI.cs
+  uploadId: 606638

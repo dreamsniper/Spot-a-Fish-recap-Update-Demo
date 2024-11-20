@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a965698e0829d044697493de27de8b48
+timeCreated: 1469978451
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Loop/Board_C.realtimeLoop.cs
+  uploadId: 606638

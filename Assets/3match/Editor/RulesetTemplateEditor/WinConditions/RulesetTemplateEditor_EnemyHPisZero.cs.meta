@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4291298350c84444985cfdf3f239b41f
+timeCreated: 1520355641
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/RulesetTemplateEditor/WinConditions/RulesetTemplateEditor_EnemyHPisZero.cs
+  uploadId: 606638

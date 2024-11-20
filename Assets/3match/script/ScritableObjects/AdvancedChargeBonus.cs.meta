@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ed00ba43a44da5f47a0a024ba2577372
+timeCreated: 1510842548
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/ScritableObjects/AdvancedChargeBonus.cs
+  uploadId: 606638

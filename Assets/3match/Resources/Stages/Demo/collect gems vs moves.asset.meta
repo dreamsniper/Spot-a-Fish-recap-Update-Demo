@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 581470046abda06479b22619bd51c6d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/collect gems vs moves.asset
+  uploadId: 606638

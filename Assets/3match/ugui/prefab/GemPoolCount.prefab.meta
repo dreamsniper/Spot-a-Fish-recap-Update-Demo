@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37babca1ec28c9746866139ddd3b4bc5
+timeCreated: 1511105162
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/prefab/GemPoolCount.prefab
+  uploadId: 606638

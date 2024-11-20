@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b70ce70de1aa23498fc52cff0efd8ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/Praise.cs
+  uploadId: 606638

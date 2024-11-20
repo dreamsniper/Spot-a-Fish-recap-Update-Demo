@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61af5b56fb986b34bb4a93d9815d21cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/templates/Ruleset/TestRuleset.asset
+  uploadId: 606638

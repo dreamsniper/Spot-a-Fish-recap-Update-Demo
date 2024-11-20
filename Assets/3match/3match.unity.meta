@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e166774fc4b1d924cbbad13f54a28400
+timeCreated: 1457362924
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/3match.unity
+  uploadId: 606638

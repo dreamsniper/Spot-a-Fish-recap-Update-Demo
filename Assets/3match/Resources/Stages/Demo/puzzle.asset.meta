@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 935d078201e170541a65dce0db3a7228
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/puzzle.asset
+  uploadId: 606638

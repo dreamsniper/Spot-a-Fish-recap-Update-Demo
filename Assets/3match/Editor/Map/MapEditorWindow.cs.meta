@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e97214f5f1895b44793142d84db0e780
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/Map/MapEditorWindow.cs
+  uploadId: 606638

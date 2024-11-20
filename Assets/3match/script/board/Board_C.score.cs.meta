@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3d76c1a80097bd54d86bf39bfbab969d
+timeCreated: 1469984009
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Board_C.score.cs
+  uploadId: 606638

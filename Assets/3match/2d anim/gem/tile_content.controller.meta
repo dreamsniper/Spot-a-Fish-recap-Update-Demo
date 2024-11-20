@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff54de562cd9d4245a2e5e685b4957b4
+timeCreated: 1523462946
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/2d anim/gem/tile_content.controller
+  uploadId: 606638

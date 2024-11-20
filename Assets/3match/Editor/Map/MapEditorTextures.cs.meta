@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ef47a1cf889368b49a6854154c90a0ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/Map/MapEditorTextures.cs
+  uploadId: 606638

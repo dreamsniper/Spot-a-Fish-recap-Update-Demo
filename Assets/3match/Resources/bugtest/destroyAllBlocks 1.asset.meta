@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f621c40b38bd9748b911fc0469e8ab6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/bugtest/destroyAllBlocks 1.asset
+  uploadId: 606638

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e02a4a3d622ad0f47a100e7485187e17
+timeCreated: 1521044575
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/AudioManager.cs
+  uploadId: 606638

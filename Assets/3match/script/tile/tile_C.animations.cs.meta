@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d9a22664ac09d1c4bbde7feb2d56bc52
+timeCreated: 1468766877
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/tile/tile_C.animations.cs
+  uploadId: 606638

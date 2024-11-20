@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: e2f43b148e3c3da47bc39b93983a9d80
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/prefab/tile_content.prefab
+  uploadId: 606638

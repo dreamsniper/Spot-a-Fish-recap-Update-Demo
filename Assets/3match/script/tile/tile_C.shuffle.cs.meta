@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4427b0fad91e0394c85405e85e5fa4dd
+timeCreated: 1470161160
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/tile/tile_C.shuffle.cs
+  uploadId: 606638

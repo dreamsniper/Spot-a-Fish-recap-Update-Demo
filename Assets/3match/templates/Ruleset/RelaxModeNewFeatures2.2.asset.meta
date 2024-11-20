@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f2ef0993c4e7cf8428e663164abbec0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/templates/Ruleset/RelaxModeNewFeatures2.2.asset
+  uploadId: 606638

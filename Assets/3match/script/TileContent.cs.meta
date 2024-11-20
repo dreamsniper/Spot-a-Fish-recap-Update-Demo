@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 64e26b4648f4fac4d8ca9623896738af
+timeCreated: 1524064257
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/TileContent.cs
+  uploadId: 606638

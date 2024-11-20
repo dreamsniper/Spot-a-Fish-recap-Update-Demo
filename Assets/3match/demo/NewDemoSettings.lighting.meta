@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1aa78f88d8373647b322996f4e1209b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/demo/NewDemoSettings.lighting
+  uploadId: 606638

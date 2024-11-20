@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6ec57c39ae0bbc419ef7f58606d060d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/New Stage File.asset
+  uploadId: 606638

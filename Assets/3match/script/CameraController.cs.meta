@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fa4b9dbd7ac6ffc46b756c81dac0618b
+timeCreated: 1520955126
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/CameraController.cs
+  uploadId: 606638

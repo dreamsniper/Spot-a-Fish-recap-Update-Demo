@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3ab016ba1690db549bb3bc20e18e76a7
+timeCreated: 1470932803
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Loop/Board_C.common_to_both_loops.cs
+  uploadId: 606638

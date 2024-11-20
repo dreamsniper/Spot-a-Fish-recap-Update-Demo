@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 524b7bb89c16fc9429e06371a06a9830
+timeCreated: 1520355641
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/RulesetTemplateEditor/WinConditions/RulesetTemplateEditor_CollectGems.cs
+  uploadId: 606638

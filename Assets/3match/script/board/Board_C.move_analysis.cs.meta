@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2499352380f89c646b79e817c34685db
+timeCreated: 1470757272
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Board_C.move_analysis.cs
+  uploadId: 606638

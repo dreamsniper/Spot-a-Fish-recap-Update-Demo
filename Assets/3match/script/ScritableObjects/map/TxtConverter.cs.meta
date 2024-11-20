@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7eca5eef67e650e479d6586105f5e2f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/ScritableObjects/map/TxtConverter.cs
+  uploadId: 606638

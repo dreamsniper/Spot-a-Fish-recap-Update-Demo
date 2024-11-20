@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 6be4e17eafc6bdf4885a709dc8b69aee
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/prefab/fx/bonus/destroy_one_fx.prefab
+  uploadId: 606638

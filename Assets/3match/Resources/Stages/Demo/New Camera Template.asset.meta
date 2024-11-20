@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92f38e1dcba7b9b488c1b48fa2a10c8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Resources/Stages/Demo/New Camera Template.asset
+  uploadId: 606638

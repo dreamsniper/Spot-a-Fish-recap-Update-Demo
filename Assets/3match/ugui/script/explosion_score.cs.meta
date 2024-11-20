@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf494bcbfde4bcc428a413912819f355
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/script/explosion_score.cs
+  uploadId: 606638

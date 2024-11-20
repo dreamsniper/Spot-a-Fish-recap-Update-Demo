@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7318de3aeec91941a4c730e676cd54d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/ugui/script/bonus_button.cs
+  uploadId: 606638

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0023fc5df54572c499874da5c97df968
+timeCreated: 1520355641
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/RulesetTemplateEditor/LoseConditions/RulesetTemplateEditor_EnemyReachTargetScore.cs
+  uploadId: 606638

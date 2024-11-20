@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1ffb8b20e65bd1d45b995240b25ff3af
+timeCreated: 1520355641
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/RulesetTemplateEditor/Bonus/RulesetTemplateEditor_Bonus_AdvancedCharge.cs
+  uploadId: 606638

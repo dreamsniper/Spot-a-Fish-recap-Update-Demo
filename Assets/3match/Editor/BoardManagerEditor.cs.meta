@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8a4db03bc30ace54ea5bd1aa1ad692b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/Editor/BoardManagerEditor.cs
+  uploadId: 606638

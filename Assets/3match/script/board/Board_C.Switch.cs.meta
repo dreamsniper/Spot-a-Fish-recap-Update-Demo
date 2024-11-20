@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3069d767678eded478dad60c3dacf4f3
+timeCreated: 1469980351
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20891
+  packageName: Super Match 3 Kit
+  packageVersion: 2.3
+  assetPath: Assets/3match/script/board/Board_C.Switch.cs
+  uploadId: 606638
